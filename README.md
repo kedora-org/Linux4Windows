@@ -1,3 +1,5 @@
 # Linux4Windows
-kedora-kde-theme.tar.gz
-kedora-kde-theme.spec
+Linux for windows users.
+
+kedora-kde-theme.tar.gz (source)
+kedora-kde-theme.spec (spec file)
